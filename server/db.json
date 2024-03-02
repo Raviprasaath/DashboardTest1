@@ -1,0 +1,4498 @@
+{
+  "eCommerceData": {
+    "lastMonth": {
+      "store": {
+        "cashOnDelivery": {
+          "Bangalore": {
+            "totalSales": 15000,
+            "totalEarnings": 13500,
+            "totalOrders": 50,
+            "totalMargin": 3000,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2000, 3000, 4000, 3500, 4500, 6000, 5500, 7000, 8000, 9000],
+            "topSoldProducts": {
+              "iPhone": 120,
+              "SSD Hard Disk": 90,
+              "Smartwatch": 80,
+              "Wireless Headphones": 75,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1500,
+                "actualSale": 986
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2000,
+                "actualSale": 1750
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1800,
+                "actualSale": 1600
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2500,
+                "actualSale": 2300
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1200,
+                "actualSale": 1000
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 900,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1100,
+                "actualSale": 950
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 20
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 8
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 12000,
+            "totalEarnings": 10800,
+            "totalOrders": 45,
+            "totalMargin": 2400,
+            "marginRate": 20,
+            "quantityReturned": 3,
+            "totalRevenueArray": [1500, 2200, 2800, 3500, 4200, 4800, 5300, 5800, 6400, 7000],
+            "topSoldProducts": {
+              "Smartphone": 110,
+              "Laptop": 95,
+              "Smartwatch": 85,
+              "Headphones": 75,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1400,
+                "actualSale": 1150
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1800,
+                "actualSale": 1600
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 750,
+                "actualSale": 680
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 700,
+                "actualSale": 600
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 850,
+                "actualSale": 720
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 18000,
+            "totalEarnings": 16200,
+            "totalOrders": 60,
+            "totalMargin": 3600,
+            "marginRate": 20,
+            "quantityReturned": 7,
+            "totalRevenueArray": [2500, 3200, 4000, 3700, 4800, 6000, 5500, 7200, 8100, 9500],
+            "topSoldProducts": {
+              "Smartphone": 130,
+              "Laptop": 100,
+              "Smartwatch": 90,
+              "Headphones": 80,
+              "Bluetooth Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 800,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 20000,
+            "totalEarnings": 18000,
+            "totalOrders": 70,
+            "totalMargin": 4000,
+            "marginRate": 20,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2200, 3500, 4000, 3700, 4800, 6000, 5500, 7200, 8100, 9500],
+            "topSoldProducts": {
+              "Smartphone": 140,
+              "Laptop": 110,
+              "Smartwatch": 95,
+              "Headphones": 85,
+              "Bluetooth Speaker": 80
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 800,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },          
+          "Gujarat": {
+            "totalSales": 16000,
+            "totalEarnings": 14400,
+            "totalOrders": 55,
+            "totalMargin": 3200,
+            "marginRate": 20,
+            "quantityReturned": 4,
+            "totalRevenueArray": [1800, 2700, 3200, 3000, 3900, 5000, 4500, 5800, 6600, 7500],
+            "topSoldProducts": {
+              "Smartphone": 130,
+              "Laptop": 100,
+              "Tablet": 90,
+              "Smartwatch": 85,
+              "Wireless Headphones": 80
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1400,
+                "actualSale": 1200
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2000,
+                "actualSale": 1800
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 950,
+                "actualSale": 850
+              },
+              {
+                "product": "Wireless Headphones",
+                "expectedSale": 880,
+                "actualSale": 780
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 900,
+                "actualSale": 800
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 40
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 25
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              }
+            ]
+          }
+        },
+        "creditCard": {
+          "Bangalore": {
+            "totalSales": 16500,
+            "totalEarnings": 14000,
+            "totalOrders": 55,
+            "totalMargin": 3200,
+            "marginRate": 22,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2200, 3500, 4000, 3700, 4800, 6000, 5500, 7200, 8100, 9500],
+            "topSoldProducts": {
+              "iPhone": 125,
+              "SSD Hard Disk": 95,
+              "Smartwatch": 85,
+              "Wireless Headphones": 78,
+              "Bluetooth Speaker": 72
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1600,
+                "actualSale": 1000
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1900,
+                "actualSale": 1650
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1700,
+                "actualSale": 1550
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2600,
+                "actualSale": 2400
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1150,
+                "actualSale": 1000
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 42
+              },
+              {
+                "category": "Electronics",
+                "percentage": 19
+              },
+              {
+                "category": "Clothing",
+                "percentage": 16
+              },
+              {
+                "category": "Books",
+                "percentage": 11
+              },
+              {
+                "category": "Furniture",
+                "percentage": 9
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 12500,
+            "totalEarnings": 11000,
+            "totalOrders": 50,
+            "totalMargin": 2500,
+            "marginRate": 21,
+            "quantityReturned": 4,
+            "totalRevenueArray": [1600, 2300, 2900, 3600, 4300, 4900, 5400, 5900, 6500, 7100],
+            "topSoldProducts": {
+              "Smartphone": 115,
+              "Laptop": 90,
+              "Smartwatch": 80,
+              "Headphones": 72,
+              "Bluetooth Speaker": 68
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1500,
+                "actualSale": 1200
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1900,
+                "actualSale": 1700
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 800,
+                "actualSale": 720
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 750,
+                "actualSale": 650
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 900,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1250,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 44
+              },
+              {
+                "category": "Clothing",
+                "percentage": 19
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 19500,
+            "totalEarnings": 17500,
+            "totalOrders": 65,
+            "totalMargin": 3700,
+            "marginRate": 22,
+            "quantityReturned": 8,
+            "totalRevenueArray": [2600, 3300, 4100, 3800, 4900, 6200, 5700, 7400, 8300, 9700],
+            "topSoldProducts": {
+              "Smartphone": 135,
+              "Laptop": 105,
+              "Smartwatch": 95,
+              "Headphones": 85,
+              "Bluetooth Speaker": 78
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1700,
+                "actualSale": 1500
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2300,
+                "actualSale": 2100
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 900,
+                "actualSale": 800
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1350,
+                "actualSale": 1150
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 46
+              },
+              {
+                "category": "Clothing",
+                "percentage": 19
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 21500,
+            "totalEarnings": 19500,
+            "totalOrders": 75,
+            "totalMargin": 4200,
+            "marginRate": 23,
+            "quantityReturned": 7,
+            "totalRevenueArray": [2400, 3800, 4300, 4000, 5200, 6500, 6000, 7800, 8700, 10100],
+            "topSoldProducts": {
+              "Smartphone": 145,
+              "Laptop": 115,
+              "Smartwatch": 100,
+              "Headphones": 90,
+              "Bluetooth Speaker": 82
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2400,
+                "actualSale": 2150
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 950,
+                "actualSale": 820
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1150,
+                "actualSale": 980
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1400,
+                "actualSale": 1200
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 47
+              },
+              {
+                "category": "Clothing",
+                "percentage": 18
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Beauty",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 17000,
+            "totalEarnings": 15300,
+            "totalOrders": 60,
+            "totalMargin": 3400,
+            "marginRate": 22,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2000, 3000, 3600, 3400, 4200, 5300, 4800, 6200, 7000, 8000],
+            "topSoldProducts": {
+              "Smartphone": 135,
+              "Laptop": 105,
+              "Tablet": 92,
+              "Smartwatch": 87,
+              "Wireless Headphones": 82
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1500,
+                "actualSale": 1300
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2100,
+                "actualSale": 1900
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Wireless Headphones",
+                "expectedSale": 920,
+                "actualSale": 800
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1250,
+                "actualSale": 1100
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 820
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 41
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 24
+              },
+              {
+                "category": "Clothing",
+                "percentage": 14
+              },
+              {
+                "category": "Books",
+                "percentage": 9
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 4
+              }
+            ]
+          }
+        },
+        "debitCard": {
+          "Bangalore": {
+            "totalSales": 18750,
+            "totalEarnings": 16875,
+            "totalOrders": 62,
+            "totalMargin": 4312,
+            "marginRate": 23,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2200, 3500, 4000, 3700, 4800, 6000, 5500, 7200, 8100, 9500],
+            "topSoldProducts": {
+              "iPhone": 132,
+              "SSD Hard Disk": 87,
+              "Smartwatch": 78,
+              "Wireless Headphones": 64,
+              "Bluetooth Speaker": 71
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1640,
+                "actualSale": 980
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2050,
+                "actualSale": 1740
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1770,
+                "actualSale": 1530
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2570,
+                "actualSale": 2330
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1280,
+                "actualSale": 1090
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1150,
+                "actualSale": 870
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 970,
+                "actualSale": 720
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1110,
+                "actualSale": 980
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 41
+              },
+              {
+                "category": "Electronics",
+                "percentage": 20
+              },
+              {
+                "category": "Clothing",
+                "percentage": 17
+              },
+              {
+                "category": "Books",
+                "percentage": 12
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 1
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 13400,
+            "totalEarnings": 12060,
+            "totalOrders": 48,
+            "totalMargin": 3020,
+            "marginRate": 22,
+            "quantityReturned": 4,
+            "totalRevenueArray": [1580, 2280, 2870, 3650, 4270, 4920, 5430, 5870, 6490, 7150],
+            "topSoldProducts": {
+              "Smartphone": 118,
+              "Laptop": 91,
+              "Smartwatch": 79,
+              "Headphones": 68,
+              "Bluetooth Speaker": 73
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1540,
+                "actualSale": 1170
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1860,
+                "actualSale": 1680
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 920,
+                "actualSale": 780
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 780,
+                "actualSale": 710
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 730,
+                "actualSale": 630
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1020,
+                "actualSale": 890
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 880,
+                "actualSale": 740
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1230,
+                "actualSale": 1120
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 18
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 8
+              },
+              {
+                "category": "Furniture",
+                "percentage": 7
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 17900,
+            "totalEarnings": 16110,
+            "totalOrders": 59,
+            "totalMargin": 3510,
+            "marginRate": 21,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2520, 3250, 4080, 3750, 4820, 6050, 5560, 7230, 8120, 9530],
+            "topSoldProducts": {
+              "Smartphone": 133,
+              "Laptop": 99,
+              "Smartwatch": 92,
+              "Headphones": 81,
+              "Bluetooth Speaker": 76
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1650,
+                "actualSale": 1420
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 1980
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1020,
+                "actualSale": 900
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 870,
+                "actualSale": 780
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 810,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1060,
+                "actualSale": 920
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 970,
+                "actualSale": 830
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1320,
+                "actualSale": 1130
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 44
+              },
+              {
+                "category": "Clothing",
+                "percentage": 19
+              },
+              {
+                "category": "Books",
+                "percentage": 13
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 20600,
+            "totalEarnings": 18540,
+            "totalOrders": 70,
+            "totalMargin": 3948,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2340, 3690, 4230, 3970, 5180, 6410, 5920, 7620, 8580, 10020],
+            "topSoldProducts": {
+              "Smartphone": 142,
+              "Laptop": 108,
+              "Smartwatch": 94,
+              "Headphones": 83,
+              "Bluetooth Speaker": 77
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1680,
+                "actualSale": 1440
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2300,
+                "actualSale": 2070
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1080,
+                "actualSale": 920
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 910,
+                "actualSale": 800
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 850,
+                "actualSale": 740
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1130,
+                "actualSale": 960
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 980,
+                "actualSale": 840
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1370,
+                "actualSale": 1170
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 43
+              },
+              {
+                "category": "Clothing",
+                "percentage": 17
+              },
+              {
+                "category": "Books",
+                "percentage": 12
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 8
+              },
+              {
+                "category": "Toys",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 16200,
+            "totalEarnings": 14580,
+            "totalOrders": 54,
+            "totalMargin": 3240,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [1920, 2850, 3400, 3140, 3980, 5070, 4620, 6090, 6890, 7850],
+            "topSoldProducts": {
+              "Smartphone": 129,
+              "Laptop": 97,
+              "Tablet": 86,
+              "Smartwatch": 84,
+              "Wireless Headphones": 79
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1520,
+                "actualSale": 1270
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2070,
+                "actualSale": 1840
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1150,
+                "actualSale": 1010
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 950,
+                "actualSale": 870
+              },
+              {
+                "product": "Wireless Headphones",
+                "expectedSale": 870,
+                "actualSale": 790
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 830,
+                "actualSale": 710
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1210,
+                "actualSale": 1040
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 920,
+                "actualSale": 810
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 38
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 27
+              },
+              {
+                "category": "Clothing",
+                "percentage": 13
+              },
+              {
+                "category": "Books",
+                "percentage": 11
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              }
+            ]
+          }
+        },
+        "applePay": {
+          "Bangalore": {
+            "totalSales": 18700,
+            "totalEarnings": 16990,
+            "totalOrders": 61,
+            "totalMargin": 4220,
+            "marginRate": 22,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2200, 3500, 4050, 3770, 4810, 6050, 5580, 7230, 8190, 9600],
+            "topSoldProducts": {
+              "iPhone": 135,
+              "SSD Hard Disk": 88,
+              "Smartwatch": 76,
+              "Wireless Headphones": 62,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1650,
+                "actualSale": 990
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2070,
+                "actualSale": 1770
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1760,
+                "actualSale": 1540
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2550,
+                "actualSale": 2310
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1270,
+                "actualSale": 1100
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1140,
+                "actualSale": 880
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 970,
+                "actualSale": 730
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1100,
+                "actualSale": 990
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 21
+              },
+              {
+                "category": "Clothing",
+                "percentage": 16
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 13600,
+            "totalEarnings": 12240,
+            "totalOrders": 47,
+            "totalMargin": 2980,
+            "marginRate": 21,
+            "quantityReturned": 4,
+            "totalRevenueArray": [1550, 2240, 2900, 3670, 4290, 4950, 5450, 5900, 6520, 7170],
+            "topSoldProducts": {
+              "Smartphone": 120,
+              "Laptop": 93,
+              "Smartwatch": 78,
+              "Headphones": 65,
+              "Bluetooth Speaker": 72
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1520,
+                "actualSale": 1180
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1840,
+                "actualSale": 1660
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 910,
+                "actualSale": 770
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 770,
+                "actualSale": 700
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 720,
+                "actualSale": 630
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1010,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 880,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1210,
+                "actualSale": 1110
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 46
+              },
+              {
+                "category": "Clothing",
+                "percentage": 17
+              },
+              {
+                "category": "Books",
+                "percentage": 13
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 7
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 17500,
+            "totalEarnings": 15750,
+            "totalOrders": 58,
+            "totalMargin": 3440,
+            "marginRate": 20,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2480, 3200, 4030, 3730, 4850, 6100, 5620, 7280, 8160, 9570],
+            "topSoldProducts": {
+              "Smartphone": 130,
+              "Laptop": 98,
+              "Smartwatch": 90,
+              "Headphones": 80,
+              "Bluetooth Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1620,
+                "actualSale": 1410
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2160,
+                "actualSale": 1950
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 890
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 860,
+                "actualSale": 780
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 800,
+                "actualSale": 690
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 910
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 960,
+                "actualSale": 820
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1120
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 43
+              },
+              {
+                "category": "Clothing",
+                "percentage": 18
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 7
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 20400,
+            "totalEarnings": 18360,
+            "totalOrders": 69,
+            "totalMargin": 4020,
+            "marginRate": 21,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2300, 3650, 4200, 3940, 5120, 6390, 5900, 7600, 8540, 10070],
+            "topSoldProducts": {
+              "Smartphone": 141,
+              "Laptop": 107,
+              "Smartwatch": 92,
+              "Headphones": 82,
+              "Bluetooth Speaker": 76
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1660,
+                "actualSale": 1420
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2260,
+                "actualSale": 2040
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1070,
+                "actualSale": 930
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 900,
+                "actualSale": 810
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 840,
+                "actualSale": 730
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1110,
+                "actualSale": 950
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 970,
+                "actualSale": 830
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1350,
+                "actualSale": 1160
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 44
+              },
+              {
+                "category": "Clothing",
+                "percentage": 17
+              },
+              {
+                "category": "Books",
+                "percentage": 12
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 11
+              },
+              {
+                "category": "Furniture",
+                "percentage": 7
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 16150,
+            "totalEarnings": 14540,
+            "totalOrders": 53,
+            "totalMargin": 3280,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [1900, 2810, 3390, 3120, 3960, 5030, 4580, 6050, 6840, 7780],
+            "topSoldProducts": {
+              "Smartphone": 128,
+              "Laptop": 96,
+              "Tablet": 88,
+              "Smartwatch": 85,
+              "Wireless Headphones": 78
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1500,
+                "actualSale": 1250
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2050,
+                "actualSale": 1820
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1140,
+                "actualSale": 1000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 940,
+                "actualSale": 860
+              },
+              {
+                "product": "Wireless Headphones",
+                "expectedSale": 860,
+                "actualSale": 780
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 820,
+                "actualSale": 700
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1200,
+                "actualSale": 1030
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 910,
+                "actualSale": 800
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 39
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 26
+              },
+              {
+                "category": "Clothing",
+                "percentage": 14
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 4
+              }
+            ]
+          }
+        },
+        "upi": {
+          "Bangalore": {
+            "totalSales": 16500,
+            "totalEarnings": 14850,
+            "totalOrders": 55,
+            "totalMargin": 3300,
+            "marginRate": 20,
+            "quantityReturned": 4,
+            "totalRevenueArray": [2100, 3200, 3800, 3550, 4600, 5800, 5400, 7200, 8100, 9300],
+            "topSoldProducts": {
+              "iPhone": 130,
+              "SSD Hard Disk": 95,
+              "Smartwatch": 85,
+              "Wireless Headphones": 70,
+              "Bluetooth Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1600,
+                "actualSale": 1250
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2000,
+                "actualSale": 1800
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1800,
+                "actualSale": 1550
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2500,
+                "actualSale": 2250
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1000,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 900,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1100,
+                "actualSale": 1000
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 35
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 5
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 15000,
+            "totalEarnings": 13500,
+            "totalOrders": 50,
+            "totalMargin": 3000,
+            "marginRate": 20,
+            "quantityReturned": 3,
+            "totalRevenueArray": [2000, 3100, 3700, 3450, 4500, 5700, 5300, 7100, 8000, 9200],
+            "topSoldProducts": {
+              "Smartphone": 120,
+              "Laptop": 90,
+              "Smartwatch": 80,
+              "Headphones": 75,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1500,
+                "actualSale": 1200
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 1800,
+                "actualSale": 1600
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 900,
+                "actualSale": 850
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 750,
+                "actualSale": 680
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 700,
+                "actualSale": 600
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 950,
+                "actualSale": 850
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 40
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 5
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 17500,
+            "totalEarnings": 15750,
+            "totalOrders": 60,
+            "totalMargin": 3600,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2300, 3200, 3900, 3650, 4700, 5900, 5500, 7300, 8200, 9500],
+            "topSoldProducts": {
+              "Smartphone": 125,
+              "Laptop": 95,
+              "Smartwatch": 85,
+              "Headphones": 78,
+              "Bluetooth Speaker": 72
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 800,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 19800,
+            "totalEarnings": 17820,
+            "totalOrders": 68,
+            "totalMargin": 3960,
+            "marginRate": 20,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2200, 3550, 4150, 3850, 4950, 6200, 5700, 7400, 8300, 9700],
+            "topSoldProducts": {
+              "Smartphone": 135,
+              "Laptop": 105,
+              "Smartwatch": 90,
+              "Headphones": 80,
+              "Bluetooth Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1650,
+                "actualSale": 1420
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2250,
+                "actualSale": 2030
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 880,
+                "actualSale": 780
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 820,
+                "actualSale": 710
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 960,
+                "actualSale": 820
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1350,
+                "actualSale": 1140
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 43
+              },
+              {
+                "category": "Clothing",
+                "percentage": 19
+              },
+              {
+                "category": "Books",
+                "percentage": 14
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 20500,
+            "totalEarnings": 18450,
+            "totalOrders": 70,
+            "totalMargin": 4050,
+            "marginRate": 21,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2250, 3600, 4200, 3900, 5000, 6250, 5750, 7450, 8350, 9750],
+            "topSoldProducts": {
+              "Smartphone": 140,
+              "Laptop": 110,
+              "Smartwatch": 95,
+              "Headphones": 85,
+              "Bluetooth Speaker": 78
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1700,
+                "actualSale": 1450
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2300,
+                "actualSale": 2080
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1080,
+                "actualSale": 930
+              },
+              {
+                "product": "Headphones",
+                "expectedSale": 900,
+                "actualSale": 810
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 830,
+                "actualSale": 720
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1120,
+                "actualSale": 970
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 970,
+                "actualSale": 830
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1380,
+                "actualSale": 1160
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 42
+              },
+              {
+                "category": "Clothing",
+                "percentage": 18
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 7
+              },
+              {
+                "category": "Beauty",
+                "percentage": 4
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              }
+            ]
+          }
+        }
+      },
+      "website": {
+        "cashOnDelivery": {
+          "Bangalore": {
+            "totalSales": 22000,
+            "totalEarnings": 19800,
+            "totalOrders": 80,
+            "totalMargin": 4400,
+            "marginRate": 20,
+            "quantityReturned": 8,
+            "totalRevenueArray": [2300, 3800, 4500, 4200, 5400, 6700, 6200, 8000, 8900, 10400],
+            "topSoldProducts": {
+              "Smartphone": 150,
+              "Laptop": 120,
+              "Smartwatch": 105,
+              "Headphones": 95,
+              "Bluetooth Speaker": 85
+            },
+            "latestOrders": [
+              {
+                "product": "Microwave Oven",
+                "expectedSale": 1800,
+                "actualSale": 1580
+              },
+              {
+                "product": "Vacuum Cleaner",
+                "expectedSale": 2500,
+                "actualSale": 2200
+              },
+              {
+                "product": "Coffee Maker",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Toaster",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Blender",
+                "expectedSale": 950,
+                "actualSale": 820
+              },
+              {
+                "product": "Juicer",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Air Fryer",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Food Processor",
+                "expectedSale": 1350,
+                "actualSale": 1150
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 50
+              },
+              {
+                "category": "Electronics",
+                "percentage": 20
+              },
+              {
+                "category": "Home Appliances",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 19500,
+            "totalEarnings": 17550,
+            "totalOrders": 70,
+            "totalMargin": 3900,
+            "marginRate": 21,
+            "quantityReturned": 7,
+            "totalRevenueArray": [2200, 3500, 4100, 3800, 4900, 6200, 5700, 7400, 8300, 9700],
+            "topSoldProducts": {
+              "Smartphone": 140,
+              "Laptop": 110,
+              "Smartwatch": 95,
+              "Headphones": 85,
+              "Bluetooth Speaker": 80
+            },
+            "latestOrders": [
+              {
+                "product": "Air Conditioner",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              },
+              {
+                "product": "Washing Machine",
+                "expectedSale": 2400,
+                "actualSale": 2150
+              },
+              {
+                "product": "Refrigerator",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Television",
+                "expectedSale": 950,
+                "actualSale": 820
+              },
+              {
+                "product": "Water Heater",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Induction Cooktop",
+                "expectedSale": 1150,
+                "actualSale": 980
+              },
+              {
+                "product": "Rice Cooker",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Dishwasher",
+                "expectedSale": 1400,
+                "actualSale": 1200
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Home Appliances",
+                "percentage": 30
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 4
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 15000,
+            "totalEarnings": 13500,
+            "totalOrders": 50,
+            "totalMargin": 3000,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2000, 3000, 4000, 3500, 4500, 6000, 5500, 7000, 8000, 9000],
+            "topSoldProducts": {
+              "iPhone": 120,
+              "SSD Hard Disk": 90,
+              "Smartwatch": 80,
+              "Wireless Headphones": 75,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Samsung Phone S10",
+                "expectedSale": 1500,
+                "actualSale": 986
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2000,
+                "actualSale": 1750
+              },
+              {
+                "product": "Gaming Console",
+                "expectedSale": 1800,
+                "actualSale": 1600
+              },
+              {
+                "product": "4K TV",
+                "expectedSale": 2500,
+                "actualSale": 2300
+              },
+              {
+                "product": "Tablet",
+                "expectedSale": 1200,
+                "actualSale": 1000
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 900,
+                "actualSale": 750
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1100,
+                "actualSale": 950
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 20
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 8
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 15000,
+            "totalEarnings": 13500,
+            "totalOrders": 50,
+            "totalMargin": 3000,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2000, 3000, 4000, 3500, 4500, 6000, 5500, 7000, 8000, 9000],
+            "topSoldProducts": {
+              "Smartphone": 120,
+              "Laptop": 90,
+              "Smartwatch": 80,
+              "Wireless Headphones": 75,
+              "Bluetooth Speaker": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Air Fryer",
+                "expectedSale": 1500,
+                "actualSale": 986
+              },
+              {
+                "product": "Rice Cooker",
+                "expectedSale": 2000,
+                "actualSale": 1750
+              },
+              {
+                "product": "Food Processor",
+                "expectedSale": 1800,
+                "actualSale": 1600
+              },
+              {
+                "product": "Juicer",
+                "expectedSale": 2500,
+                "actualSale": 2300
+              },
+              {
+                "product": "Blender",
+                "expectedSale": 1200,
+                "actualSale": 1000
+              },
+              {
+                "product": "Toaster",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Microwave Oven",
+                "expectedSale": 900,
+                "actualSale": 750
+              },
+              {
+                "product": "Coffee Maker",
+                "expectedSale": 1100,
+                "actualSale": 950
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 20
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 8
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 17500,
+            "totalEarnings": 15750,
+            "totalOrders": 55,
+            "totalMargin": 3500,
+            "marginRate": 25,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2200, 3300, 4200, 3800, 4900, 6500, 6000, 7800, 8800, 10000],
+            "topSoldProducts": {
+              "Smart Fridge": 130,
+              "Smart TV": 100,
+              "Smartwatch": 90,
+              "Wireless Earbuds": 80,
+              "Smart Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Refrigerator",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Smart TV",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Wireless Earbuds",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Smart Speaker",
+                "expectedSale": 800,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          }
+          
+          
+        },
+        "creditCard": {
+          "Bangalore": {
+            "totalSales": 24000,
+            "totalEarnings": 20400,
+            "totalOrders": 85,
+            "totalMargin": 4400,
+            "marginRate": 23,
+            "quantityReturned": 9,
+            "totalRevenueArray": [2500, 4000, 4700, 4400, 5600, 7000, 6500, 8400, 9300, 10800],
+            "topSoldProducts": {
+              "iPhone": 160,
+              "SSD Hard Disk": 125,
+              "Smartwatch": 110,
+              "Wireless Headphones": 100,
+              "Bluetooth Speaker": 90
+            },
+            "latestOrders": [
+              {
+                "product": "Air Purifier",
+                "expectedSale": 1800,
+                "actualSale": 1580
+              },
+              {
+                "product": "Humidifier",
+                "expectedSale": 2500,
+                "actualSale": 2200
+              },
+              {
+                "product": "Dehumidifier",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Water Purifier",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Hair Dryer",
+                "expectedSale": 950,
+                "actualSale": 820
+              },
+              {
+                "product": "Hair Straightener",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Hair Curler",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Electric Shaver",
+                "expectedSale": 1350,
+                "actualSale": 1150
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 50
+              },
+              {
+                "category": "Home Appliances",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 21500,
+            "totalEarnings": 18900,
+            "totalOrders": 75,
+            "totalMargin": 3900,
+            "marginRate": 24,
+            "quantityReturned": 8,
+            "totalRevenueArray": [2400, 3800, 4500, 4200, 5400, 6700, 6200, 8000, 8900, 10400],
+            "topSoldProducts": {
+              "iPhone": 150,
+              "SSD Hard Disk": 120,
+              "Smartwatch": 105,
+              "Wireless Headphones": 95,
+              "Bluetooth Speaker": 85
+            },
+            "latestOrders": [
+              {
+                "product": "Air Cooler",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              },
+              {
+                "product": "Ceiling Fan",
+                "expectedSale": 2400,
+                "actualSale": 2150
+              },
+              {
+                "product": "Exhaust Fan",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Wall Fan",
+                "expectedSale": 950,
+                "actualSale": 820
+              },
+              {
+                "product": "Table Fan",
+                "expectedSale": 900,
+                "actualSale": 780
+              },
+              {
+                "product": "Pedestal Fan",
+                "expectedSale": 1150,
+                "actualSale": 980
+              },
+              {
+                "product": "Tower Fan",
+                "expectedSale": 1000,
+                "actualSale": 850
+              },
+              {
+                "product": "Mixer Grinder",
+                "expectedSale": 1400,
+                "actualSale": 1200
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Appliances",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 30
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              },
+              {
+                "category": "Sports",
+                "percentage": 1
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 17500,
+            "totalEarnings": 15750,
+            "totalOrders": 55,
+            "totalMargin": 3500,
+            "marginRate": 25,
+            "quantityReturned": 6,
+            "totalRevenueArray": [2200, 3300, 4200, 3800, 4900, 6500, 6000, 7800, 8800, 10000],
+            "topSoldProducts": {
+              "Smart Fridge": 130,
+              "Smart TV": 100,
+              "Smartwatch": 90,
+              "Wireless Earbuds": 80,
+              "Smart Speaker": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Refrigerator",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Smart TV",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Wireless Earbuds",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Smart Speaker",
+                "expectedSale": 800,
+                "actualSale": 700
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 18500,
+            "totalEarnings": 16650,
+            "totalOrders": 58,
+            "totalMargin": 3700,
+            "marginRate": 23,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2300, 3400, 4300, 3900, 5000, 6600, 6100, 7900, 8900, 10200],
+            "topSoldProducts": {
+              "Smart Microwave": 128,
+              "VR Headset": 98,
+              "Smartwatch": 88,
+              "Wireless Earphones": 78,
+              "Smart Lamp": 73
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Microwave",
+                "expectedSale": 1650,
+                "actualSale": 1450
+              },
+              {
+                "product": "VR Headset",
+                "expectedSale": 2250,
+                "actualSale": 2050
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Wireless Earphones",
+                "expectedSale": 870,
+                "actualSale": 760
+              },
+              {
+                "product": "Smart Lamp",
+                "expectedSale": 820,
+                "actualSale": 710
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 940
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 960,
+                "actualSale": 820
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1330,
+                "actualSale": 1130
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 42
+              },
+              {
+                "category": "Electronics",
+                "percentage": 24
+              },
+              {
+                "category": "Clothing",
+                "percentage": 14
+              },
+              {
+                "category": "Books",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 17000,
+            "totalEarnings": 15300,
+            "totalOrders": 55,
+            "totalMargin": 3300,
+            "marginRate": 19,
+            "quantityReturned": 4,
+            "totalRevenueArray": [2200, 3100, 4000, 3500, 4800, 6200, 5700, 7400, 8300, 9700],
+            "topSoldProducts": {
+              "Smartphone": 125,
+              "Laptop": 95,
+              "Smartwatch": 85,
+              "Bluetooth Speaker": 75,
+              "Wireless Earphones": 70
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Wireless Earphones",
+                "expectedSale": 800,
+                "actualSale": 680
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          }
+          
+          
+        },
+        "debitCard": {
+          "Bangalore": {
+            "totalSales": 24500,
+            "totalEarnings": 20800,
+            "totalOrders": 83,
+            "totalMargin": 4500,
+            "marginRate": 22,
+            "quantityReturned": 10,
+            "totalRevenueArray": [2600, 4100, 4800, 4500, 5700, 7100, 6600, 8500, 9400, 10900],
+            "topSoldProducts": {
+              "Smartphone": 165,
+              "Laptop": 130,
+              "Smartwatch": 115,
+              "Wireless Earphones": 105,
+              "Bluetooth Speaker": 95
+            },
+            "latestOrders": [
+              {
+                "product": "Air Purifier",
+                "expectedSale": 1850,
+                "actualSale": 1620
+              },
+              {
+                "product": "Humidifier",
+                "expectedSale": 2550,
+                "actualSale": 2250
+              },
+              {
+                "product": "Dehumidifier",
+                "expectedSale": 1250,
+                "actualSale": 1080
+              },
+              {
+                "product": "Water Purifier",
+                "expectedSale": 920,
+                "actualSale": 800
+              },
+              {
+                "product": "Hair Dryer",
+                "expectedSale": 970,
+                "actualSale": 840
+              },
+              {
+                "product": "Hair Straightener",
+                "expectedSale": 1120,
+                "actualSale": 970
+              },
+              {
+                "product": "Hair Curler",
+                "expectedSale": 1020,
+                "actualSale": 890
+              },
+              {
+                "product": "Electric Shaver",
+                "expectedSale": 1370,
+                "actualSale": 1160
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 48
+              },
+              {
+                "category": "Home Appliances",
+                "percentage": 23
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 6
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              },
+              {
+                "category": "Sports",
+                "percentage": 1
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 22000,
+            "totalEarnings": 19200,
+            "totalOrders": 72,
+            "totalMargin": 4100,
+            "marginRate": 21,
+            "quantityReturned": 7,
+            "totalRevenueArray": [2500, 3900, 4600, 4300, 5500, 6800, 6300, 8100, 9000, 10500],
+            "topSoldProducts": {
+              "Smartphone": 155,
+              "Laptop": 125,
+              "Smartwatch": 110,
+              "Wireless Earphones": 100,
+              "Bluetooth Speaker": 90
+            },
+            "latestOrders": [
+              {
+                "product": "Air Cooler",
+                "expectedSale": 1750,
+                "actualSale": 1520
+              },
+              {
+                "product": "Ceiling Fan",
+                "expectedSale": 2450,
+                "actualSale": 2200
+              },
+              {
+                "product": "Exhaust Fan",
+                "expectedSale": 1120,
+                "actualSale": 980
+              },
+              {
+                "product": "Wall Fan",
+                "expectedSale": 970,
+                "actualSale": 840
+              },
+              {
+                "product": "Table Fan",
+                "expectedSale": 920,
+                "actualSale": 800
+              },
+              {
+                "product": "Pedestal Fan",
+                "expectedSale": 1170,
+                "actualSale": 1000
+              },
+              {
+                "product": "Tower Fan",
+                "expectedSale": 1020,
+                "actualSale": 870
+              },
+              {
+                "product": "Mixer Grinder",
+                "expectedSale": 1430,
+                "actualSale": 1220
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Appliances",
+                "percentage": 42
+              },
+              {
+                "category": "Electronics",
+                "percentage": 28
+              },
+              {
+                "category": "Books",
+                "percentage": 9
+              },
+              {
+                "category": "Beauty",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              },
+              {
+                "category": "Sports",
+                "percentage": 1
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 18000,
+            "totalEarnings": 16000,
+            "totalOrders": 60,
+            "totalMargin": 3600,
+            "marginRate": 20,
+            "quantityReturned": 5,
+            "totalRevenueArray": [2300, 3400, 4300, 3900, 5000, 6600, 6100, 7900, 8900, 10200],
+            "topSoldProducts": {
+              "Smartphone": 140,
+              "Laptop": 110,
+              "Smartwatch": 95,
+              "Wireless Earbuds": 85,
+              "Bluetooth Speaker": 80
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Refrigerator",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              },
+              {
+                "product": "Smart TV",
+                "expectedSale": 2300,
+                "actualSale": 2050
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Wireless Earbuds",
+                "expectedSale": 870,
+                "actualSale": 760
+              },
+              {
+                "product": "Smart Speaker",
+                "expectedSale": 820,
+                "actualSale": 710
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 940
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 960,
+                "actualSale": 820
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1330,
+                "actualSale": 1130
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Clothing",
+                "percentage": 15
+              },
+              {
+                "category": "Books",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 19000,
+            "totalEarnings": 17000,
+            "totalOrders": 55,
+            "totalMargin": 3800,
+            "marginRate": 20,
+            "quantityReturned": 4,
+            "totalRevenueArray": [2400, 3500, 4400, 4000, 5100, 6700, 6200, 8000, 8900, 10300],
+            "topSoldProducts": {
+              "Smart Microwave": 130,
+              "VR Headset": 100,
+              "Smartwatch": 90,
+              "Wireless Earphones": 80,
+              "Smart Lamp": 75
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Microwave",
+                "expectedSale": 1650,
+                "actualSale": 1450
+              },
+              {
+                "product": "VR Headset",
+                "expectedSale": 2250,
+                "actualSale": 2050
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Wireless Earphones",
+                "expectedSale": 870,
+                "actualSale": 760
+              },
+              {
+                "product": "Smart Lamp",
+                "expectedSale": 820,
+                "actualSale": 710
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1100,
+                "actualSale": 940
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 960,
+                "actualSale": 820
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1330,
+                "actualSale": 1130
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 42
+              },
+              {
+                "category": "Electronics",
+                "percentage": 24
+              },
+              {
+                "category": "Clothing",
+                "percentage": 14
+              },
+              {
+                "category": "Books",
+                "percentage": 9
+              },
+              {
+                "category": "Furniture",
+                "percentage": 6
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 17500,
+            "totalEarnings": 15800,
+            "totalOrders": 60,
+            "totalMargin": 3400,
+            "marginRate": 19,
+            "quantityReturned": 3,
+            "totalRevenueArray": [2200, 3200, 4100, 3600, 4900, 6300, 5800, 7500, 8400, 9800],
+            "topSoldProducts": {
+              "Smartphone": 120,
+              "Laptop": 100,
+              "Smartwatch": 80,
+              "Bluetooth Speaker": 70,
+              "Wireless Earphones": 65
+            },
+            "latestOrders": [
+              {
+                "product": "Smartphone",
+                "expectedSale": 1600,
+                "actualSale": 1400
+              },
+              {
+                "product": "Laptop",
+                "expectedSale": 2200,
+                "actualSale": 2000
+              },
+              {
+                "product": "Smartwatch",
+                "expectedSale": 1000,
+                "actualSale": 880
+              },
+              {
+                "product": "Bluetooth Speaker",
+                "expectedSale": 850,
+                "actualSale": 750
+              },
+              {
+                "product": "Wireless Earphones",
+                "expectedSale": 800,
+                "actualSale": 680
+              },
+              {
+                "product": "Digital Camera",
+                "expectedSale": 1050,
+                "actualSale": 900
+              },
+              {
+                "product": "Fitness Tracker",
+                "expectedSale": 950,
+                "actualSale": 800
+              },
+              {
+                "product": "External Hard Drive",
+                "expectedSale": 1300,
+                "actualSale": 1100
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics",
+                "percentage": 45
+              },
+              {
+                "category": "Clothing",
+                "percentage": 20
+              },
+              {
+                "category": "Books",
+                "percentage": 15
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 10
+              },
+              {
+                "category": "Furniture",
+                "percentage": 5
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Toys",
+                "percentage": 2
+              }
+            ]
+          }
+        },
+        "applePay": {
+          "Bangalore": {
+            "totalSales": 26500,
+            "totalEarnings": 22500,
+            "totalOrders": 90,
+            "totalMargin": 5000,
+            "marginRate": 20,
+            "quantityReturned": 12,
+            "totalRevenueArray": [2800, 4300, 5000, 4700, 5900, 7400, 6900, 8900, 9800, 11400],
+            "topSoldProducts": {
+              "Smartphone": 170,
+              "Laptop": 135,
+              "Smartwatch": 120,
+              "Wireless Earphones": 110,
+              "Bluetooth Speaker": 100
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Coffee Maker",
+                "expectedSale": 1950,
+                "actualSale": 1720
+              },
+              {
+                "product": "Smart Rice Cooker",
+                "expectedSale": 2650,
+                "actualSale": 2350
+              },
+              {
+                "product": "Smart Air Fryer",
+                "expectedSale": 1350,
+                "actualSale": 1180
+              },
+              {
+                "product": "Smart Oven",
+                "expectedSale": 1020,
+                "actualSale": 890
+              },
+              {
+                "product": "Smart Toaster",
+                "expectedSale": 1070,
+                "actualSale": 920
+              },
+              {
+                "product": "Smart Kettle",
+                "expectedSale": 1220,
+                "actualSale": 1060
+              },
+              {
+                "product": "Smart Blender",
+                "expectedSale": 1120,
+                "actualSale": 970
+              },
+              {
+                "product": "Smart Food Processor",
+                "expectedSale": 1510,
+                "actualSale": 1290
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 30
+              },
+              {
+                "category": "Home Decor",
+                "percentage": 8
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 25500,
+            "totalEarnings": 22000,
+            "totalOrders": 85,
+            "totalMargin": 4800,
+            "marginRate": 19,
+            "quantityReturned": 10,
+            "totalRevenueArray": [2700, 4100, 4800, 4600, 5800, 7300, 6800, 8700, 9600, 11200],
+            "topSoldProducts": {
+              "Smartphone": 160,
+              "Laptop": 130,
+              "Smartwatch": 115,
+              "Wireless Earphones": 105,
+              "Bluetooth Speaker": 95
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Bedside Lamp",
+                "expectedSale": 1850,
+                "actualSale": 1620
+              },
+              {
+                "product": "Smart Table Lamp",
+                "expectedSale": 2550,
+                "actualSale": 2250
+              },
+              {
+                "product": "Smart Floor Lamp",
+                "expectedSale": 1250,
+                "actualSale": 1080
+              },
+              {
+                "product": "Smart Desk Lamp",
+                "expectedSale": 920,
+                "actualSale": 800
+              },
+              {
+                "product": "Smart Ceiling Light",
+                "expectedSale": 970,
+                "actualSale": 840
+              },
+              {
+                "product": "Smart Wall Light",
+                "expectedSale": 1120,
+                "actualSale": 970
+              },
+              {
+                "product": "Smart Pendant Light",
+                "expectedSale": 1020,
+                "actualSale": 890
+              },
+              {
+                "product": "Smart Chandelier",
+                "expectedSale": 1370,
+                "actualSale": 1160
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Decor",
+                "percentage": 50
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 27000,
+            "totalEarnings": 23500,
+            "totalOrders": 80,
+            "totalMargin": 4900,
+            "marginRate": 18,
+            "quantityReturned": 11,
+            "totalRevenueArray": [2900, 4400, 5100, 4800, 6000, 7500, 7000, 9000, 9900, 11500],
+            "topSoldProducts": {
+              "Smartphone": 175,
+              "Laptop": 140,
+              "Smartwatch": 125,
+              "Wireless Earphones": 115,
+              "Bluetooth Speaker": 105
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Alarm Clock",
+                "expectedSale": 2000,
+                "actualSale": 1760
+              },
+              {
+                "product": "Smart Digital Frame",
+                "expectedSale": 2700,
+                "actualSale": 2400
+              },
+              {
+                "product": "Smart Weather Station",
+                "expectedSale": 1400,
+                "actualSale": 1220
+              },
+              {
+                "product": "Smart Air Quality Monitor",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Smart Thermometer",
+                "expectedSale": 1100,
+                "actualSale": 950
+              },
+              {
+                "product": "Smart Humidity Monitor",
+                "expectedSale": 1250,
+                "actualSale": 1080
+              },
+              {
+                "product": "Smart Blood Pressure Monitor",
+                "expectedSale": 1150,
+                "actualSale": 980
+              },
+              {
+                "product": "Smart Pulse Oximeter",
+                "expectedSale": 1550,
+                "actualSale": 1320
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Health Devices",
+                "percentage": 40
+              },
+              {
+                "category": "Electronics",
+                "percentage": 30
+              },
+              {
+                "category": "Beauty",
+                "percentage": 8
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 25000,
+            "totalEarnings": 21500,
+            "totalOrders": 75,
+            "totalMargin": 4500,
+            "marginRate": 18,
+            "quantityReturned": 9,
+            "totalRevenueArray": [2750, 4200, 4900, 4600, 5800, 7300, 6800, 8700, 9600, 11200],
+            "topSoldProducts": {
+              "Smartphone": 165,
+              "Laptop": 135,
+              "Smartwatch": 120,
+              "Wireless Earphones": 110,
+              "Bluetooth Speaker": 100
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Door Lock",
+                "expectedSale": 1900,
+                "actualSale": 1670
+              },
+              {
+                "product": "Smart Security Camera",
+                "expectedSale": 2600,
+                "actualSale": 2300
+              },
+              {
+                "product": "Smart Video Doorbell",
+                "expectedSale": 1300,
+                "actualSale": 1140
+              },
+              {
+                "product": "Smart Motion Sensor",
+                "expectedSale": 980,
+                "actualSale": 860
+              },
+              {
+                "product": "Smart Smoke Detector",
+                "expectedSale": 1030,
+                "actualSale": 900
+              },
+              {
+                "product": "Smart Carbon Monoxide Detector",
+                "expectedSale": 1180,
+                "actualSale": 1020
+              },
+              {
+                "product": "Smart Water Leak Detector",
+                "expectedSale": 1080,
+                "actualSale": 940
+              },
+              {
+                "product": "Smart Siren Alarm",
+                "expectedSale": 1450,
+                "actualSale": 1260
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Security",
+                "percentage": 50
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 24000,
+            "totalEarnings": 20500,
+            "totalOrders": 70,
+            "totalMargin": 4300,
+            "marginRate": 18,
+            "quantityReturned": 8,
+            "totalRevenueArray": [2600, 4000, 4700, 4500, 5700, 7200, 6700, 8600, 9500, 11000],
+            "topSoldProducts": {
+              "Smartphone": 155,
+              "Laptop": 125,
+              "Smartwatch": 110,
+              "Wireless Earphones": 100,
+              "Bluetooth Speaker": 90
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Garbage Bin",
+                "expectedSale": 1750,
+                "actualSale": 1540
+              },
+              {
+                "product": "Smart Recycling Bin",
+                "expectedSale": 2400,
+                "actualSale": 2120
+              },
+              {
+                "product": "Smart Compost Bin",
+                "expectedSale": 1150,
+                "actualSale": 1000
+              },
+              {
+                "product": "Smart Trash Compactor",
+                "expectedSale": 870,
+                "actualSale": 760
+              },
+              {
+                "product": "Smart Vacuum Trash Can",
+                "expectedSale": 920,
+                "actualSale": 810
+              },
+              {
+                "product": "Smart Sensor Trash Can",
+                "expectedSale": 1050,
+                "actualSale": 920
+              },
+              {
+                "product": "Smart Hands-Free Trash Can",
+                "expectedSale": 950,
+                "actualSale": 830
+              },
+              {
+                "product": "Smart Indoor Trash Can",
+                "expectedSale": 1270,
+                "actualSale": 1110
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Accessories",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          }
+        },
+        "upi": {
+          "Bangalore": {
+            "totalSales": 31000,
+            "totalEarnings": 27900,
+            "totalOrders": 120,
+            "totalMargin": 5100,
+            "marginRate": 16,
+            "quantityReturned": 15,
+            "totalRevenueArray": [3300, 4900, 5600, 5200, 6500, 8100, 7600, 9800, 10700, 12300],
+            "topSoldProducts": {
+              "Smartphone": 180,
+              "Laptop": 140,
+              "Smartwatch": 125,
+              "Wireless Earphones": 110,
+              "Bluetooth Speaker": 95
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Coffee Maker",
+                "expectedSale": 2100,
+                "actualSale": 1850
+              },
+              {
+                "product": "Smart Rice Cooker",
+                "expectedSale": 2900,
+                "actualSale": 2550
+              },
+              {
+                "product": "Smart Air Fryer",
+                "expectedSale": 1550,
+                "actualSale": 1350
+              },
+              {
+                "product": "Smart Oven",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Smart Toaster",
+                "expectedSale": 1250,
+                "actualSale": 1100
+              },
+              {
+                "product": "Smart Kettle",
+                "expectedSale": 1400,
+                "actualSale": 1220
+              },
+              {
+                "product": "Smart Blender",
+                "expectedSale": 1300,
+                "actualSale": 1150
+              },
+              {
+                "product": "Smart Food Processor",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Kitchen Appliances",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 30
+              },
+              {
+                "category": "Home Decor",
+                "percentage": 8
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Beauty",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Chennai": {
+            "totalSales": 29500,
+            "totalEarnings": 26100,
+            "totalOrders": 105,
+            "totalMargin": 4800,
+            "marginRate": 17,
+            "quantityReturned": 12,
+            "totalRevenueArray": [3100, 4700, 5400, 5100, 6400, 8000, 7500, 9700, 10600, 12200],
+            "topSoldProducts": {
+              "Smartphone": 170,
+              "Laptop": 135,
+              "Smartwatch": 120,
+              "Wireless Earphones": 105,
+              "Bluetooth Speaker": 90
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Bedside Lamp",
+                "expectedSale": 2300,
+                "actualSale": 2020
+              },
+              {
+                "product": "Smart Table Lamp",
+                "expectedSale": 3200,
+                "actualSale": 2800
+              },
+              {
+                "product": "Smart Floor Lamp",
+                "expectedSale": 1550,
+                "actualSale": 1350
+              },
+              {
+                "product": "Smart Desk Lamp",
+                "expectedSale": 1220,
+                "actualSale": 1070
+              },
+              {
+                "product": "Smart Ceiling Light",
+                "expectedSale": 1280,
+                "actualSale": 1120
+              },
+              {
+                "product": "Smart Wall Light",
+                "expectedSale": 1450,
+                "actualSale": 1270
+              },
+              {
+                "product": "Smart Pendant Light",
+                "expectedSale": 1340,
+                "actualSale": 1170
+              },
+              {
+                "product": "Smart Chandelier",
+                "expectedSale": 1800,
+                "actualSale": 1580
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Decor",
+                "percentage": 50
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Delhi": {
+            "totalSales": 32000,
+            "totalEarnings": 29000,
+            "totalOrders": 115,
+            "totalMargin": 5200,
+            "marginRate": 18,
+            "quantityReturned": 13,
+            "totalRevenueArray": [3400, 5000, 5700, 5300, 6600, 8200, 7700, 9900, 10800, 12400],
+            "topSoldProducts": {
+              "Smartphone": 185,
+              "Laptop": 145,
+              "Smartwatch": 130,
+              "Wireless Earphones": 115,
+              "Bluetooth Speaker": 100
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Alarm Clock",
+                "expectedSale": 2400,
+                "actualSale": 2100
+              },
+              {
+                "product": "Smart Digital Frame",
+                "expectedSale": 3300,
+                "actualSale": 2900
+              },
+              {
+                "product": "Smart Weather Station",
+                "expectedSale": 1650,
+                "actualSale": 1440
+              },
+              {
+                "product": "Smart Air Quality Monitor",
+                "expectedSale": 1300,
+                "actualSale": 1140
+              },
+              {
+                "product": "Smart Thermometer",
+                "expectedSale": 1350,
+                "actualSale": 1180
+              },
+              {
+                "product": "Smart Humidity Monitor",
+                "expectedSale": 1520,
+                "actualSale": 1330
+              },
+              {
+                "product": "Smart Barometer",
+                "expectedSale": 1390,
+                "actualSale": 1220
+              },
+              {
+                "product": "Smart Wind Meter",
+                "expectedSale": 1850,
+                "actualSale": 1620
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Home Accessories",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Mumbai": {
+            "totalSales": 30000,
+            "totalEarnings": 26800,
+            "totalOrders": 110,
+            "totalMargin": 4900,
+            "marginRate": 16,
+            "quantityReturned": 14,
+            "totalRevenueArray": [3200, 4800, 5500, 5200, 6500, 8100, 7600, 9800, 10700, 12300],
+            "topSoldProducts": {
+              "Smartphone": 175,
+              "Laptop": 140,
+              "Smartwatch": 125,
+              "Wireless Earphones": 110,
+              "Bluetooth Speaker": 95
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Desk Organizer",
+                "expectedSale": 2200,
+                "actualSale": 1930
+              },
+              {
+                "product": "Smart Pen Holder",
+                "expectedSale": 3100,
+                "actualSale": 2720
+              },
+              {
+                "product": "Smart File Organizer",
+                "expectedSale": 1550,
+                "actualSale": 1350
+              },
+              {
+                "product": "Smart Cable Organizer",
+                "expectedSale": 1200,
+                "actualSale": 1050
+              },
+              {
+                "product": "Smart Book Stand",
+                "expectedSale": 1250,
+                "actualSale": 1100
+              },
+              {
+                "product": "Smart Tablet Stand",
+                "expectedSale": 1400,
+                "actualSale": 1220
+              },
+              {
+                "product": "Smart Monitor Stand",
+                "expectedSale": 1300,
+                "actualSale": 1150
+              },
+              {
+                "product": "Smart Keyboard Tray",
+                "expectedSale": 1700,
+                "actualSale": 1480
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Office Accessories",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 3
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 2
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          },
+          "Gujarat": {
+            "totalSales": 31500,
+            "totalEarnings": 28200,
+            "totalOrders": 115,
+            "totalMargin": 5000,
+            "marginRate": 16,
+            "quantityReturned": 13,
+            "totalRevenueArray": [3300, 4900, 5600, 5300, 6600, 8200, 7700, 9900, 10800, 12400],
+            "topSoldProducts": {
+              "Smartphone": 180,
+              "Laptop": 140,
+              "Smartwatch": 125,
+              "Wireless Earphones": 110,
+              "Bluetooth Speaker": 95
+            },
+            "latestOrders": [
+              {
+                "product": "Smart Cable Management Box",
+                "expectedSale": 2400,
+                "actualSale": 2100
+              },
+              {
+                "product": "Smart Cable Management Sleeve",
+                "expectedSale": 3300,
+                "actualSale": 2900
+              },
+              {
+                "product": "Smart Cable Clips",
+                "expectedSale": 1650,
+                "actualSale": 1440
+              },
+              {
+                "product": "Smart Cable Organizer",
+                "expectedSale": 1300,
+                "actualSale": 1140
+              },
+              {
+                "product": "Smart Cable Ties",
+                "expectedSale": 1350,
+                "actualSale": 1180
+              },
+              {
+                "product": "Smart Cable Labels",
+                "expectedSale": 1520,
+                "actualSale": 1330
+              },
+              {
+                "product": "Smart Cable Holder",
+                "expectedSale": 1390,
+                "actualSale": 1220
+              },
+              {
+                "product": "Smart Cable Wraps",
+                "expectedSale": 1850,
+                "actualSale": 1620
+              }
+            ],
+            "saleDetails": [
+              {
+                "category": "Electronics Accessories",
+                "percentage": 45
+              },
+              {
+                "category": "Electronics",
+                "percentage": 25
+              },
+              {
+                "category": "Beauty",
+                "percentage": 10
+              },
+              {
+                "category": "Books",
+                "percentage": 5
+              },
+              {
+                "category": "Toys",
+                "percentage": 4
+              },
+              {
+                "category": "Kitchen",
+                "percentage": 3
+              },
+              {
+                "category": "Furniture",
+                "percentage": 3
+              },
+              {
+                "category": "Clothing",
+                "percentage": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

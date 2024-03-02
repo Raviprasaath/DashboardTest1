@@ -1,0 +1,852 @@
+"lastQuarter": {
+    "store": {
+      "cashOnDelivery": {
+        "Bangalore": {
+          "totalSales": 75000,
+          "totalEarnings": 68000,
+          "totalOrders": 200,
+          "totalMargin": 15000,
+          "marginRate": 25,
+          "quantityReturned": 15
+        },
+        "Chennai": {
+          "totalSales": 60000,
+          "totalEarnings": 55000,
+          "totalOrders": 180,
+          "totalMargin": 12000,
+          "marginRate": 24,
+          "quantityReturned": 12
+        },
+        "Delhi": {
+          "totalSales": 90000,
+          "totalEarnings": 81000,
+          "totalOrders": 240,
+          "totalMargin": 18000,
+          "marginRate": 25,
+          "quantityReturned": 21
+        },
+        "Mumbai": {
+          "totalSales": 100000,
+          "totalEarnings": 90000,
+          "totalOrders": 280,
+          "totalMargin": 20000,
+          "marginRate": 26,
+          "quantityReturned": 18
+        },
+        "Gujarat": {
+          "totalSales": 80000,
+          "totalEarnings": 72000,
+          "totalOrders": 230,
+          "totalMargin": 16000,
+          "marginRate": 25,
+          "quantityReturned": 14
+        }
+      },
+      "creditCard": {
+        "Bangalore": {
+          "totalSales": 50000,
+          "totalEarnings": 48000,
+          "totalOrders": 150,
+          "totalMargin": 10000,
+          "marginRate": 20,
+          "quantityReturned": 10
+        },
+        "Chennai": {
+          "totalSales": 40000,
+          "totalEarnings": 38000,
+          "totalOrders": 130,
+          "totalMargin": 8000,
+          "marginRate": 20,
+          "quantityReturned": 8
+        },
+        "Delhi": {
+          "totalSales": 60000,
+          "totalEarnings": 57000,
+          "totalOrders": 200,
+          "totalMargin": 12000,
+          "marginRate": 20,
+          "quantityReturned": 12
+        },
+        "Mumbai": {
+          "totalSales": 65000,
+          "totalEarnings": 62000,
+          "totalOrders": 220,
+          "totalMargin": 13000,
+          "marginRate": 20,
+          "quantityReturned": 14
+        },
+        "Gujarat": {
+          "totalSales": 55000,
+          "totalEarnings": 53000,
+          "totalOrders": 180,
+          "totalMargin": 11000,
+          "marginRate": 20,
+          "quantityReturned": 9
+        }
+      },
+      "debitCard": {
+        "Bangalore": {
+          "totalSales": 62500,
+          "totalEarnings": 59000,
+          "totalOrders": 170,
+          "totalMargin": 12500,
+          "marginRate": 25,
+          "quantityReturned": 11
+        },
+        "Chennai": {
+          "totalSales": 42500,
+          "totalEarnings": 39000,
+          "totalOrders": 120,
+          "totalMargin": 8500,
+          "marginRate": 22,
+          "quantityReturned": 7
+        },
+        "Delhi": {
+          "totalSales": 57500,
+          "totalEarnings": 54000,
+          "totalOrders": 190,
+          "totalMargin": 11500,
+          "marginRate": 23,
+          "quantityReturned": 10
+        },
+        "Mumbai": {
+          "totalSales": 64000,
+          "totalEarnings": 61000,
+          "totalOrders": 210,
+          "totalMargin": 13000,
+          "marginRate": 22,
+          "quantityReturned": 12
+        },
+        "Gujarat": {
+          "totalSales": 53500,
+          "totalEarnings": 51000,
+          "totalOrders": 170,
+          "totalMargin": 10700,
+          "marginRate": 20,
+          "quantityReturned": 8
+        }
+      },
+      "applePay": {
+        "Bangalore": {
+          "totalSales": 68750,
+          "totalEarnings": 66750,
+          "totalOrders": 160,
+          "totalMargin": 14500,
+          "marginRate": 24,
+          "quantityReturned": 15
+        },
+        "Chennai": {
+          "totalSales": 41000,
+          "totalEarnings": 40000,
+          "totalOrders": 110,
+          "totalMargin": 9000,
+          "marginRate": 22,
+          "quantityReturned": 9
+        },
+        "Delhi": {
+          "totalSales": 63000,
+          "totalEarnings": 62000,
+          "totalOrders": 170,
+          "totalMargin": 12000,
+          "marginRate": 23,
+          "quantityReturned": 11
+        },
+        "Mumbai": {
+          "totalSales": 70000,
+          "totalEarnings": 69000,
+          "totalOrders": 190,
+          "totalMargin": 13500,
+          "marginRate": 23,
+          "quantityReturned": 14
+        },
+        "Gujarat": {
+          "totalSales": 56000,
+          "totalEarnings": 55000,
+          "totalOrders": 150,
+          "totalMargin": 11000,
+          "marginRate": 22,
+          "quantityReturned": 9
+        }
+      },
+      "upi": {
+        "Bangalore": {
+          "totalSales": 75000,
+          "totalEarnings": 70000,
+          "totalOrders": 180,
+          "totalMargin": 16000,
+          "marginRate": 21,
+          "quantityReturned": 18
+        },
+        "Chennai": {
+          "totalSales": 44000,
+          "totalEarnings": 42000,
+          "totalOrders": 130,
+          "totalMargin": 9500,
+          "marginRate": 21,
+          "quantityReturned": 10
+        },
+        "Delhi": {
+          "totalSales": 70000,
+          "totalEarnings": 67000,
+          "totalOrders": 190,
+          "totalMargin": 14000,
+          "marginRate": 20,
+          "quantityReturned": 16
+        },
+        "Mumbai": {
+          "totalSales": 77000,
+          "totalEarnings": 75000,
+          "totalOrders": 200,
+          "totalMargin": 16500,
+          "marginRate": 21,
+          "quantityReturned": 18
+        },
+        "Gujarat": {
+          "totalSales": 60000,
+          "totalEarnings": 58000,
+          "totalOrders": 160,
+          "totalMargin": 12000,
+          "marginRate": 20,
+          "quantityReturned": 14
+        }
+      }
+    },
+    "website": {
+      "cashOnDelivery": {
+        "Bangalore": {
+          "totalSales": 85000,
+          "totalEarnings": 78000,
+          "totalOrders": 250,
+          "totalMargin": 17000,
+          "marginRate": 20,
+          "quantityReturned": 10
+        },
+        "Chennai": {
+          "totalSales": 72000,
+          "totalEarnings": 65000,
+          "totalOrders": 230,
+          "totalMargin": 15000,
+          "marginRate": 21,
+          "quantityReturned": 8
+        },
+        "Delhi": {
+          "totalSales": 98000,
+          "totalEarnings": 90000,
+          "totalOrders": 280,
+          "totalMargin": 20000,
+          "marginRate": 22,
+          "quantityReturned": 12
+        },
+        "Mumbai": {
+          "totalSales": 105000,
+          "totalEarnings": 95000,
+          "totalOrders": 300,
+          "totalMargin": 22000,
+          "marginRate": 21,
+          "quantityReturned": 15
+        },
+        "Gujarat": {
+          "totalSales": 82000,
+          "totalEarnings": 74000,
+          "totalOrders": 240,
+          "totalMargin": 16000,
+          "marginRate": 20,
+          "quantityReturned": 11
+        }
+      },
+      "creditCard": {
+        "Bangalore": {
+          "totalSales": 60000,
+          "totalEarnings": 57000,
+          "totalOrders": 180,
+          "totalMargin": 12000,
+          "marginRate": 20,
+          "quantityReturned": 9
+        },
+        "Chennai": {
+          "totalSales": 48000,
+          "totalEarnings": 45000,
+          "totalOrders": 150,
+          "totalMargin": 10000,
+          "marginRate": 21,
+          "quantityReturned": 7
+        },
+        "Delhi": {
+          "totalSales": 72000,
+          "totalEarnings": 68000,
+          "totalOrders": 220,
+          "totalMargin": 14000,
+          "marginRate": 20,
+          "quantityReturned": 10
+        },
+        "Mumbai": {
+          "totalSales": 78000,
+          "totalEarnings": 75000,
+          "totalOrders": 240,
+          "totalMargin": 15000,
+          "marginRate": 19,
+          "quantityReturned": 12
+        },
+        "Gujarat": {
+          "totalSales": 66000,
+          "totalEarnings": 62000,
+          "totalOrders": 200,
+          "totalMargin": 13000,
+          "marginRate": 20,
+          "quantityReturned": 8
+        }
+      },
+      "debitCard": {
+        "Bangalore": {
+          "totalSales": 75000,
+          "totalEarnings": 71000,
+          "totalOrders": 200,
+          "totalMargin": 14000,
+          "marginRate": 18,
+          "quantityReturned": 11
+        },
+        "Chennai": {
+          "totalSales": 52000,
+          "totalEarnings": 49000,
+          "totalOrders": 160,
+          "totalMargin": 10000,
+          "marginRate": 20,
+          "quantityReturned": 7
+        },
+        "Delhi": {
+          "totalSales": 69000,
+          "totalEarnings": 65000,
+          "totalOrders": 180,
+          "totalMargin": 13000,
+          "marginRate": 19,
+          "quantityReturned": 9
+        },
+        "Mumbai": {
+          "totalSales": 74000,
+          "totalEarnings": 71000,
+          "totalOrders": 220,
+          "totalMargin": 14500,
+          "marginRate": 19,
+          "quantityReturned": 12
+        },
+        "Gujarat": {
+          "totalSales": 63000,
+          "totalEarnings": 60000,
+          "totalOrders": 170,
+          "totalMargin": 11500,
+          "marginRate": 19,
+          "quantityReturned": 8
+        }
+      },
+      "applePay": {
+        "Bangalore": {
+          "totalSales": 81000,
+          "totalEarnings": 79000,
+          "totalOrders": 190,
+          "totalMargin": 15500,
+          "marginRate": 19,
+          "quantityReturned": 10
+        },
+        "Chennai": {
+          "totalSales": 49000,
+          "totalEarnings": 48000,
+          "totalOrders": 140,
+          "totalMargin": 9500,
+          "marginRate": 19,
+          "quantityReturned": 8
+        },
+        "Delhi": {
+          "totalSales": 75000,
+          "totalEarnings": 72000,
+          "totalOrders": 200,
+          "totalMargin": 14000,
+          "marginRate": 18,
+          "quantityReturned": 10
+        },
+        "Mumbai": {
+          "totalSales": 78000,
+          "totalEarnings": 75000,
+          "totalOrders": 210,
+          "totalMargin": 15000,
+          "marginRate": 18,
+          "quantityReturned": 11
+        },
+        "Gujarat": {
+          "totalSales": 62000,
+          "totalEarnings": 59000,
+          "totalOrders": 160,
+          "totalMargin": 12000,
+          "marginRate": 19,
+          "quantityReturned": 9
+        }
+      },
+      "upi": {
+        "Bangalore": {
+          "totalSales": 85000,
+          "totalEarnings": 82000,
+          "totalOrders": 220,
+          "totalMargin": 17000,
+          "marginRate": 20,
+          "quantityReturned": 12
+        },
+        "Chennai": {
+          "totalSales": 54000,
+          "totalEarnings": 52000,
+          "totalOrders": 170,
+          "totalMargin": 11000,
+          "marginRate": 20,
+          "quantityReturned": 9
+        },
+        "Delhi": {
+          "totalSales": 78000,
+          "totalEarnings": 74000,
+          "totalOrders": 190,
+          "totalMargin": 15000,
+          "marginRate": 19,
+          "quantityReturned": 11
+        },
+        "Mumbai": {
+          "totalSales": 81000,
+          "totalEarnings": 78000,
+          "totalOrders": 200,
+          "totalMargin": 16000,
+          "marginRate": 19,
+          "quantityReturned": 12
+        },
+        "Gujarat": {
+          "totalSales": 65000,
+          "totalEarnings": 62000,
+          "totalOrders": 180,
+          "totalMargin": 13000,
+          "marginRate": 18,
+          "quantityReturned": 10
+        }
+      }
+    }
+  },
+  "currentYear": {
+    "store": {
+      "cashOnDelivery": {
+        "Bangalore": {
+          "totalSales": 300000,
+          "totalEarnings": 272000,
+          "totalOrders": 800,
+          "totalMargin": 60000,
+          "marginRate": 100,
+          "quantityReturned": 60
+        },
+        "Chennai": {
+          "totalSales": 240000,
+          "totalEarnings": 216000,
+          "totalOrders": 720,
+          "totalMargin": 48000,
+          "marginRate": 96,
+          "quantityReturned": 48
+        },
+        "Delhi": {
+          "totalSales": 360000,
+          "totalEarnings": 324000,
+          "totalOrders": 960,
+          "totalMargin": 72000,
+          "marginRate": 120,
+          "quantityReturned": 84
+        },
+        "Mumbai": {
+          "totalSales": 400000,
+          "totalEarnings": 360000,
+          "totalOrders": 1120,
+          "totalMargin": 80000,
+          "marginRate": 104,
+          "quantityReturned": 72
+        },
+        "Gujarat": {
+          "totalSales": 320000,
+          "totalEarnings": 288000,
+          "totalOrders": 920,
+          "totalMargin": 64000,
+          "marginRate": 100,
+          "quantityReturned": 56
+        }
+      },
+      "creditCard": {
+        "Bangalore": {
+          "totalSales": 200000,
+          "totalEarnings": 192000,
+          "totalOrders": 600,
+          "totalMargin": 40000,
+          "marginRate": 80,
+          "quantityReturned": 40
+        },
+        "Chennai": {
+          "totalSales": 160000,
+          "totalEarnings": 152000,
+          "totalOrders": 520,
+          "totalMargin": 32000,
+          "marginRate": 80,
+          "quantityReturned": 32
+        },
+        "Delhi": {
+          "totalSales": 240000,
+          "totalEarnings": 228000,
+          "totalOrders": 800,
+          "totalMargin": 48000,
+          "marginRate": 80,
+          "quantityReturned": 48
+        },
+        "Mumbai": {
+          "totalSales": 260000,
+          "totalEarnings": 248000,
+          "totalOrders": 880,
+          "totalMargin": 52000,
+          "marginRate": 80,
+          "quantityReturned": 56
+        },
+        "Gujarat": {
+          "totalSales": 220000,
+          "totalEarnings": 212000,
+          "totalOrders": 720,
+          "totalMargin": 44000,
+          "marginRate": 80,
+          "quantityReturned": 36
+        }
+      },
+      "debitCard": {
+        "Bangalore": {
+          "totalSales": 250000,
+          "totalEarnings": 236000,
+          "totalOrders": 680,
+          "totalMargin": 50000,
+          "marginRate": 100,
+          "quantityReturned": 44
+        },
+        "Chennai": {
+          "totalSales": 170000,
+          "totalEarnings": 156000,
+          "totalOrders": 480,
+          "totalMargin": 34000,
+          "marginRate": 88,
+          "quantityReturned": 28
+        },
+        "Delhi": {
+          "totalSales": 230000,
+          "totalEarnings": 216000,
+          "totalOrders": 760,
+          "totalMargin": 46000,
+          "marginRate": 92,
+          "quantityReturned": 40
+        },
+        "Mumbai": {
+          "totalSales": 256000,
+          "totalEarnings": 244000,
+          "totalOrders": 840,
+          "totalMargin": 52000,
+          "marginRate": 88,
+          "quantityReturned": 48
+        },
+        "Gujarat": {
+          "totalSales": 214000,
+          "totalEarnings": 204000,
+          "totalOrders": 680,
+          "totalMargin": 42800,
+          "marginRate": 80,
+          "quantityReturned": 32
+        }
+      },
+      "applePay": {
+        "Bangalore": {
+          "totalSales": 275000,
+          "totalEarnings": 267000,
+          "totalOrders": 640,
+          "totalMargin": 58000,
+          "marginRate": 96,
+          "quantityReturned": 60
+        },
+        "Chennai": {
+          "totalSales": 164000,
+          "totalEarnings": 160000,
+          "totalOrders": 440,
+          "totalMargin": 36000,
+          "marginRate": 88,
+          "quantityReturned": 36
+        },
+        "Delhi": {
+          "totalSales": 252000,
+          "totalEarnings": 248000,
+          "totalOrders": 680,
+          "totalMargin": 48000,
+          "marginRate": 92,
+          "quantityReturned": 44
+        },
+        "Mumbai": {
+          "totalSales": 280000,
+          "totalEarnings": 276000,
+          "totalOrders": 760,
+          "totalMargin": 54000,
+          "marginRate": 92,
+          "quantityReturned": 56
+        },
+        "Gujarat": {
+          "totalSales": 224000,
+          "totalEarnings": 220000,
+          "totalOrders": 600,
+          "totalMargin": 44000,
+          "marginRate": 88,
+          "quantityReturned": 36
+        }
+      },
+      "upi": {
+        "Bangalore": {
+          "totalSales": 300000,
+          "totalEarnings": 280000,
+          "totalOrders": 720,
+          "totalMargin": 64000,
+          "marginRate": 84,
+          "quantityReturned": 72
+        },
+        "Chennai": {
+          "totalSales": 176000,
+          "totalEarnings": 168000,
+          "totalOrders": 520,
+          "totalMargin": 38000,
+          "marginRate": 84,
+          "quantityReturned": 40
+        },
+        "Delhi": {
+          "totalSales": 280000,
+          "totalEarnings": 268000,
+          "totalOrders": 760,
+          "totalMargin": 56000,
+          "marginRate": 80,
+          "quantityReturned": 64
+        },
+        "Mumbai": {
+          "totalSales": 308000,
+          "totalEarnings": 300000,
+          "totalOrders": 800,
+          "totalMargin": 66000,
+          "marginRate": 84,
+          "quantityReturned": 72
+        },
+        "Gujarat": {
+          "totalSales": 240000,
+          "totalEarnings": 232000,
+          "totalOrders": 640,
+          "totalMargin": 48000,
+          "marginRate": 80,
+          "quantityReturned": 56
+        }
+      }
+    },
+    "website": {
+      "cashOnDelivery": {
+        "Bangalore": {
+          "totalSales": 800000,
+          "totalEarnings": 724000,
+          "totalOrders": 1600,
+          "totalMargin": 120000,
+          "marginRate": 200,
+          "quantityReturned": 120
+        },
+        "Chennai": {
+          "totalSales": 640000,
+          "totalEarnings": 576000,
+          "totalOrders": 1440,
+          "totalMargin": 96000,
+          "marginRate": 192,
+          "quantityReturned": 96
+        },
+        "Delhi": {
+          "totalSales": 960000,
+          "totalEarnings": 864000,
+          "totalOrders": 1920,
+          "totalMargin": 144000,
+          "marginRate": 240,
+          "quantityReturned": 168
+        },
+        "Mumbai": {
+          "totalSales": 1000000,
+          "totalEarnings": 900000,
+          "totalOrders": 2240,
+          "totalMargin": 160000,
+          "marginRate": 208,
+          "quantityReturned": 144
+        },
+        "Gujarat": {
+          "totalSales": 800000,
+          "totalEarnings": 720000,
+          "totalOrders": 1840,
+          "totalMargin": 128000,
+          "marginRate": 200,
+          "quantityReturned": 112
+        }
+      },
+      "creditCard": {
+        "Bangalore": {
+          "totalSales": 500000,
+          "totalEarnings": 480000,
+          "totalOrders": 1500,
+          "totalMargin": 100000,
+          "marginRate": 200,
+          "quantityReturned": 80
+        },
+        "Chennai": {
+          "totalSales": 400000,
+          "totalEarnings": 380000,
+          "totalOrders": 1300,
+          "totalMargin": 80000,
+          "marginRate": 160,
+          "quantityReturned": 64
+        },
+        "Delhi": {
+          "totalSales": 600000,
+          "totalEarnings": 570000,
+          "totalOrders": 2000,
+          "totalMargin": 120000,
+          "marginRate": 160,
+          "quantityReturned": 96
+        },
+        "Mumbai": {
+          "totalSales": 650000,
+          "totalEarnings": 620000,
+          "totalOrders": 2200,
+          "totalMargin": 130000,
+          "marginRate": 160,
+          "quantityReturned": 112
+        },
+        "Gujarat": {
+          "totalSales": 550000,
+          "totalEarnings": 530000,
+          "totalOrders": 1800,
+          "totalMargin": 110000,
+          "marginRate": 160,
+          "quantityReturned": 72
+        }
+      },
+      "debitCard": {
+        "Bangalore": {
+          "totalSales": 625000,
+          "totalEarnings": 590000,
+          "totalOrders": 1700,
+          "totalMargin": 125000,
+          "marginRate": 250,
+          "quantityReturned": 110
+        },
+        "Chennai": {
+          "totalSales": 425000,
+          "totalEarnings": 390000,
+          "totalOrders": 1200,
+          "totalMargin": 85000,
+          "marginRate": 176,
+          "quantityReturned": 88
+        },
+        "Delhi": {
+          "totalSales": 575000,
+          "totalEarnings": 540000,
+          "totalOrders": 1900,
+          "totalMargin": 115000,
+          "marginRate": 184,
+          "quantityReturned": 100
+        },
+        "Mumbai": {
+          "totalSales": 640000,
+          "totalEarnings": 610000,
+          "totalOrders": 2100,
+          "totalMargin": 130000,
+          "marginRate": 176,
+          "quantityReturned": 120
+        },
+        "Gujarat": {
+          "totalSales": 535000,
+          "totalEarnings": 510000,
+          "totalOrders": 1700,
+          "totalMargin": 107000,
+          "marginRate": 160,
+          "quantityReturned": 64
+        }
+      },
+      "applePay": {
+        "Bangalore": {
+          "totalSales": 687500,
+          "totalEarnings": 667500,
+          "totalOrders": 1600,
+          "totalMargin": 145000,
+          "marginRate": 240,
+          "quantityReturned": 120
+        },
+        "Chennai": {
+          "totalSales": 410000,
+          "totalEarnings": 400000,
+          "totalOrders": 1100,
+          "totalMargin": 90000,
+          "marginRate": 176,
+          "quantityReturned": 72
+        },
+        "Delhi": {
+          "totalSales": 630000,
+          "totalEarnings": 620000,
+          "totalOrders": 1700,
+          "totalMargin": 120000,
+          "marginRate": 184,
+          "quantityReturned": 88
+        },
+        "Mumbai": {
+          "totalSales": 700000,
+          "totalEarnings": 690000,
+          "totalOrders": 1900,
+          "totalMargin": 135000,
+          "marginRate": 184,
+          "quantityReturned": 112
+        },
+        "Gujarat": {
+          "totalSales": 560000,
+          "totalEarnings": 550000,
+          "totalOrders": 1500,
+          "totalMargin": 110000,
+          "marginRate": 176,
+          "quantityReturned": 72
+        }
+      },
+      "upi": {
+        "Bangalore": {
+          "totalSales": 750000,
+          "totalEarnings": 700000,
+          "totalOrders": 1800,
+          "totalMargin": 160000,
+          "marginRate": 168,
+          "quantityReturned": 144
+        },
+        "Chennai": {
+          "totalSales": 440000,
+          "totalEarnings": 420000,
+          "totalOrders": 1300,
+          "totalMargin": 95000,
+          "marginRate": 168,
+          "quantityReturned": 80
+        },
+        "Delhi": {
+          "totalSales": 700000,
+          "totalEarnings": 670000,
+          "totalOrders": 1900,
+          "totalMargin": 140000,
+          "marginRate": 160,
+          "quantityReturned": 128
+        },
+        "Mumbai": {
+          "totalSales": 770000,
+          "totalEarnings": 750000,
+          "totalOrders": 2000,
+          "totalMargin": 165000,
+          "marginRate": 168,
+          "quantityReturned": 144
+        },
+        "Gujarat": {
+          "totalSales": 600000,
+          "totalEarnings": 580000,
+          "totalOrders": 1600,
+          "totalMargin": 120000,
+          "marginRate": 160,
+          "quantityReturned": 112
+        }
+      }
+    }
+  }
